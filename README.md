@@ -24,6 +24,73 @@ Start Application
 python3 linux_finder_gui.py
 ```
 ---
+##
+## Installation & Start (Windows)
+
+### 1. Install Python
+
+Download Python 3.10 or newer:
+
+https://www.python.org/downloads/
+
+Important during installation:
+✅ Enable “Add Python to PATH”
+
+Then install Python normally.
+
+---
+
+### 2. Download the Project
+
+Download the project as ZIP or clone it:
+
+```bash id="1vh7w5"
+git clone https://github.com/BlackRabbitZ/BR-Linux-Distro-Finder.git
+```
+
+Extract the ZIP file and open the project folder.
+
+---
+
+### 3. Optional: Install Pillow
+
+If the logo does not appear:
+
+```bash id="x0uz7n"
+pip install pillow
+```
+
+---
+
+### 4. Start the Script
+
+Inside the project folder:
+
+```bash id="5bwj2y"
+python BR_Linux_finder_DEU.py
+```
+
+or:
+
+```bash id="s2q6dr"
+python BR_Linux_Finder_ENG.py
+```
+
+If `python` does not work:
+
+```bash id="84r8hh"
+python3 BR_Linux_finder_DEU.py
+```
+
+---
+
+## Supported Systems
+
+* Windows 10 / 11
+* Linux
+* Python 3.10+
+
+---
 
 ## About
 
