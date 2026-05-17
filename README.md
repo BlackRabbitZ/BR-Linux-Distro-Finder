@@ -18,6 +18,11 @@
   <img src="https://img.shields.io/badge/license-Custom-darkred">
 </p>
 
+
+Start Application
+```bash
+python3 linux_finder_gui.py
+```
 ---
 
 ## About
@@ -111,3 +116,4 @@ Ubuntu • Linux Mint • Fedora • Debian • Arch Linux • Kali Linux • Pa
 Install Pillow:
 ```bash
 pip install pillow
+```
